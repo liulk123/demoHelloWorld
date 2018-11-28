@@ -1,8 +1,8 @@
 ---
 applications:
-- name: gaka-san
+- name: gakaIPSv
   instances: 1
   buildpack: sdk-for-nodejs
-  memory: 512M
+  memory: 256M
   host: gaka-san
   domain: mybluemix.net
