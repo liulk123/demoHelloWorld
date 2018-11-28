@@ -1,0 +1,8 @@
+---
+applications:
+- name: gaka-san
+  instances: 1
+  buildpack: sdk-for-nodejs
+  memory: 512M
+  host: gaka-san
+  domain: mybluemix.net

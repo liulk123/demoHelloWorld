@@ -1,0 +1,39 @@
+{
+   "shops" : [
+   {
+	  "id":"1",
+      "name":"Kobe Coffee Club",
+      "imgURL":"http://store.is.autonavi.com/showpic/9e1fec67a5b0bcb6e8f57b54126d1fcc",
+      "floorNo":"1",
+      "locationX":"121.541688",
+      "locationY":"38.962024",
+	  "address":"1st Floor, International Arrival Hall, Dalian Airport Terminal",
+      "businessHours":"09:00 AM 〜 06：00 PM",
+      "paymentMethod":[0,1,2,3],
+      "description":"Elegant environment and first class service. You can come to the Internet or rest while waiting for boarding."
+   },
+   {
+      "id":"2",
+      "name":"Cat Coffee",
+      "imgURL":"http://store.is.autonavi.com/showpic/294f6fe6a65ab9a7ac3070950f2c5cf3",
+      "floorNo":"1",
+      "locationX":"121.541688",
+      "locationY":"38.962024",
+	  "address":"1st Floor, International Arrival Hall, Dalian Airport Terminal",
+      "businessHours":"09:00 AM 〜 06：00 PM",
+      "paymentMethod":[0,1,2,3],
+      "description":"Elegant environment and first class service. You can come to the Internet or rest while waiting for boarding."
+   },
+   {
+      "id":"3",
+      "name":"Wing Cafe",
+      "imgURL":"http://store.is.autonavi.com/showpic/548f204229938a71ed4abd3bda29fe30",
+      "floorNo":"1",
+      "locationX":"121.541688",
+      "locationY":"38.962024",
+	  "address":"1st Floor, International Arrival Hall, Dalian Airport Terminal",
+      "businessHours":"09:00 AM 〜 06：00 PM",
+      "paymentMethod":[0,1,2,3],
+      "description":"Elegant environment and first class service. You can come to the Internet or rest while waiting for boarding."
+   }]
+}

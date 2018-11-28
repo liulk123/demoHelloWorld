@@ -1,0 +1,27 @@
+{
+   "shops" :[
+   {
+      "name":"蓝品SHOP",
+      "imgURL":"http://store.is.autonavi.com/showpic/ac9a3c623a52c549a621d7c3edaa89b7",
+      "floorNo":"1",
+      "locationX":"0",
+      "locationY":"1",
+      "description":"一般的特产店，主营各种海产品。"
+   },
+   {
+      "name":"海韵商场",
+      "imgURL":"http://store.is.autonavi.com/showpic/5d7b3ec165966c9873fa5748106f4fa4",
+      "floorNo":"1",
+      "locationX":"0",
+      "locationY":"1",
+      "description":"大连特产，海产品，天府名茶，酒水饮料，休闲食品。"
+   },
+   {
+      "name":"免税店",
+      "imgURL":"http://s10.sinaimg.cn/large/6037d8f0hd399cd40ee59&690",
+      "floorNo":"1",
+      "locationX":"0",
+      "locationY":"1",
+      "description":"免税店，包括烟酒，化妆品等。"
+   }]
+}

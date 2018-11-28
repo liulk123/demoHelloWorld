@@ -1,0 +1,15 @@
+{
+   "user" : {
+      "name" : "张奈奈",
+      "flightNumber" : "JL828",
+      "from" : "大连",
+      "to": "东京",
+      "aboardTime":"12:45",
+      "departTime":"13:00",
+      "arriveTime":"16:55",
+      "flightHours":"2H55m",
+      "gate":21,
+	  "locationX":121.542153,
+	  "locationY":38.962978
+   }
+}

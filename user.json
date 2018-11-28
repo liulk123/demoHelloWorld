@@ -1,0 +1,15 @@
+{
+   "user" : {
+      "name" : "Tom Nishihata",
+      "flightNumber" : "JL827",
+      "from" : "Dalian",
+      "to": "Tokyo",
+      "aboardTime":"14:25",
+      "departTime":"09:30",
+      "arriveTime":"11:45",
+      "flightHours":"2H55m",
+      "gate":21,
+	  "locationX":121.542153,
+	  "locationY":38.962978
+   }
+}

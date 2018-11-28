@@ -1,0 +1,27 @@
+{
+   "notifications" :[ 
+   {
+      "receiveFrom" : "Flight",
+      "receiveTime" : "2018/09/30 08:00:00",
+      "content" : "Flight JL827 to Dalian has been delayed due to bad weather conditions.Please contact the check-in-desk for further infomation.",
+      "readFlag": "1"
+   },
+    {
+      "receiveFrom" : "Flight",
+      "receiveTime" : "2018/09/30 08:15:00",
+      "content" : "Attention passengers on Flight JL827 to Dalian.The departure gate has been changed.The flight will now be leaving from gate 26.",
+      "readFlag": "0"
+   },
+   {
+      "receiveFrom" : "Airport",
+      "receiveTime" : "2018/09/30 10:10:00",
+      "content" : "Good afternoon passengers. This is the pre-boarding announcement for flight JL828 to Tokyo.",
+      "readFlag": "0"
+   },
+   {
+      "receiveFrom" : "Weather",
+      "receiveTime" : "2018/09/30 10:15:00",
+      "content" : "Weather warning. Tropical Storm Warning is in effect for Dalian during the next 24 hours.",
+      "readFlag": "0"
+   }]
+}
