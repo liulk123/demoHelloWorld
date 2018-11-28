@@ -36,7 +36,7 @@ var server = http.createServer(function(req, res){
 		res.writeHead(200, headers);
 	}
 	
-	res.write("Hello World");
+	res.write(JSON.stringify("{'text':'Hello World!'}"));
 	res.end();
 	
     // 解析 url 参数
